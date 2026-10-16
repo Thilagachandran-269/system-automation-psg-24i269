@@ -1,0 +1,360 @@
+2026-10-11T16:40:36 | Reading: {'temperature': 95.29, 'pressure': 1.65, 'vibration': 4.04, 'current': 24.95, 'rpm': 1533} | Rule: EMERGENCY_HIGH_TEMP | State: OVERHEATING | Action: EMERGENCY_STOP | Result: Emergency stop requested!
+2026-10-11T16:40:37 | Reading: {'temperature': 74.59, 'pressure': 3.17, 'vibration': 2.04, 'current': 9.69, 'rpm': 2102} | Rule: NO_RULE_FIRED | State: NORMAL | Action: CONTINUE_NORMAL | Result: Machine operating normally.
+2026-10-11T16:40:38 | Reading: {'temperature': 76.14, 'pressure': 4.27, 'vibration': 1.03, 'current': 21.0, 'rpm': 1738} | Rule: MOTOR_OVERLOAD | State: MOTOR_OVERLOAD | Action: REDUCE_LOAD | Result: Load reduction requested.
+2026-10-11T16:40:39 | Reading: {'temperature': 55.45, 'pressure': 1.42, 'vibration': 2.2, 'current': 21.51, 'rpm': 2174} | Rule: LOW_PRESSURE | State: LOW_PRESSURE | Action: CHECK_PRESSURE | Result: Low pressure detected. Inspection required.
+2026-10-11T16:40:40 | Reading: {'temperature': 89.43, 'pressure': 1.49, 'vibration': 1.08, 'current': 7.03, 'rpm': 1644} | Rule: LOW_PRESSURE | State: LOW_PRESSURE | Action: CHECK_PRESSURE | Result: Low pressure detected. Inspection required.
+2026-10-11T16:40:41 | Reading: {'temperature': 73.69, 'pressure': 3.66, 'vibration': 9.16, 'current': 12.61, 'rpm': 1453} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:40:42 | Reading: {'temperature': 68.78, 'pressure': 4.33, 'vibration': 0.53, 'current': 19.67, 'rpm': 1541} | Rule: HIGH_PRESSURE | State: HIGH_PRESSURE | Action: CHECK_HIGH_PRESSURE | Result: High pressure detected. Inspection required.
+2026-10-11T16:40:43 | Reading: {'temperature': 60.6, 'pressure': 1.23, 'vibration': 9.69, 'current': 27.05, 'rpm': 1506} | Rule: LOW_PRESSURE | State: LOW_PRESSURE | Action: CHECK_PRESSURE | Result: Low pressure detected. Inspection required.
+2026-10-11T16:40:44 | Reading: {'temperature': 79.88, 'pressure': 4.9, 'vibration': 1.91, 'current': 8.02, 'rpm': 2132} | Rule: HIGH_PRESSURE | State: HIGH_PRESSURE | Action: CHECK_HIGH_PRESSURE | Result: High pressure detected. Inspection required.
+2026-10-11T16:40:45 | Reading: {'temperature': 84.87, 'pressure': 1.87, 'vibration': 8.4, 'current': 17.83, 'rpm': 1798} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:40:46 | Reading: {'temperature': 88.2, 'pressure': 4.51, 'vibration': 0.57, 'current': 8.23, 'rpm': 1780} | Rule: HIGH_TEMPERATURE | State: OVERHEATING | Action: COOL_MACHINE | Result: Cooling action requested.
+2026-10-11T16:40:47 | Reading: {'temperature': 78.64, 'pressure': 2.83, 'vibration': 7.64, 'current': 12.71, 'rpm': 1494} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:40:48 | Reading: {'temperature': 92.87, 'pressure': 3.82, 'vibration': 7.36, 'current': 28.97, 'rpm': 2087} | Rule: EMERGENCY_HIGH_TEMP | State: OVERHEATING | Action: EMERGENCY_STOP | Result: Emergency stop requested!
+2026-10-11T16:40:49 | Reading: {'temperature': 88.22, 'pressure': 4.47, 'vibration': 5.96, 'current': 28.25, 'rpm': 1769} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:40:50 | Reading: {'temperature': 75.31, 'pressure': 4.19, 'vibration': 2.89, 'current': 23.02, 'rpm': 1753} | Rule: MOTOR_OVERLOAD | State: MOTOR_OVERLOAD | Action: REDUCE_LOAD | Result: Load reduction requested.
+2026-10-11T16:40:51 | Reading: {'temperature': 66.91, 'pressure': 2.04, 'vibration': 2.25, 'current': 8.11, 'rpm': 1951} | Rule: NO_RULE_FIRED | State: NORMAL | Action: CONTINUE_NORMAL | Result: Machine operating normally.
+2026-10-11T16:40:52 | Reading: {'temperature': 91.54, 'pressure': 4.76, 'vibration': 2.68, 'current': 20.75, 'rpm': 1912} | Rule: EMERGENCY_HIGH_TEMP | State: OVERHEATING | Action: EMERGENCY_STOP | Result: Emergency stop requested!
+2026-10-11T16:40:53 | Reading: {'temperature': 72.64, 'pressure': 2.49, 'vibration': 7.65, 'current': 12.63, 'rpm': 1789} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:40:54 | Reading: {'temperature': 90.44, 'pressure': 1.44, 'vibration': 4.6, 'current': 24.26, 'rpm': 1518} | Rule: EMERGENCY_HIGH_TEMP | State: OVERHEATING | Action: EMERGENCY_STOP | Result: Emergency stop requested!
+2026-10-11T16:40:55 | Reading: {'temperature': 63.97, 'pressure': 4.15, 'vibration': 2.17, 'current': 25.99, 'rpm': 1498} | Rule: MOTOR_OVERLOAD | State: MOTOR_OVERLOAD | Action: REDUCE_LOAD | Result: Load reduction requested.
+2026-10-11T16:40:56 | Reading: {'temperature': 56.43, 'pressure': 2.35, 'vibration': 4.92, 'current': 19.01, 'rpm': 2013} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:40:57 | Reading: {'temperature': 51.82, 'pressure': 4.2, 'vibration': 8.58, 'current': 16.47, 'rpm': 1978} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:40:58 | Reading: {'temperature': 69.6, 'pressure': 2.53, 'vibration': 8.89, 'current': 14.97, 'rpm': 1448} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:40:59 | Reading: {'temperature': 62.65, 'pressure': 3.74, 'vibration': 5.99, 'current': 21.65, 'rpm': 1953} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:41:00 | Reading: {'temperature': 92.02, 'pressure': 2.18, 'vibration': 7.68, 'current': 13.54, 'rpm': 1514} | Rule: EMERGENCY_HIGH_TEMP | State: OVERHEATING | Action: EMERGENCY_STOP | Result: Emergency stop requested!
+2026-10-11T16:41:01 | Reading: {'temperature': 64.33, 'pressure': 1.46, 'vibration': 3.94, 'current': 29.14, 'rpm': 1637} | Rule: LOW_PRESSURE | State: LOW_PRESSURE | Action: CHECK_PRESSURE | Result: Low pressure detected. Inspection required.
+2026-10-11T16:41:02 | Reading: {'temperature': 54.59, 'pressure': 2.38, 'vibration': 8.76, 'current': 18.49, 'rpm': 1643} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:41:03 | Reading: {'temperature': 57.09, 'pressure': 1.75, 'vibration': 4.05, 'current': 11.0, 'rpm': 1517} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:41:04 | Reading: {'temperature': 91.93, 'pressure': 2.95, 'vibration': 2.19, 'current': 24.58, 'rpm': 1596} | Rule: EMERGENCY_HIGH_TEMP | State: OVERHEATING | Action: EMERGENCY_STOP | Result: Emergency stop requested!
+2026-10-11T16:41:05 | Reading: {'temperature': 82.02, 'pressure': 1.21, 'vibration': 2.68, 'current': 13.96, 'rpm': 1864} | Rule: LOW_PRESSURE | State: LOW_PRESSURE | Action: CHECK_PRESSURE | Result: Low pressure detected. Inspection required.
+2026-10-11T16:41:06 | Reading: {'temperature': 75.02, 'pressure': 2.49, 'vibration': 1.17, 'current': 24.07, 'rpm': 1719} | Rule: MOTOR_OVERLOAD | State: MOTOR_OVERLOAD | Action: REDUCE_LOAD | Result: Load reduction requested.
+2026-10-11T16:41:07 | Reading: {'temperature': 94.56, 'pressure': 3.16, 'vibration': 7.96, 'current': 20.13, 'rpm': 1858} | Rule: EMERGENCY_HIGH_TEMP | State: OVERHEATING | Action: EMERGENCY_STOP | Result: Emergency stop requested!
+2026-10-11T16:41:08 | Reading: {'temperature': 78.87, 'pressure': 1.36, 'vibration': 5.42, 'current': 7.08, 'rpm': 1721} | Rule: LOW_PRESSURE | State: LOW_PRESSURE | Action: CHECK_PRESSURE | Result: Low pressure detected. Inspection required.
+2026-10-11T16:41:09 | Reading: {'temperature': 54.18, 'pressure': 4.72, 'vibration': 7.61, 'current': 14.15, 'rpm': 2064} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:41:10 | Reading: {'temperature': 81.35, 'pressure': 1.49, 'vibration': 8.85, 'current': 11.45, 'rpm': 1439} | Rule: LOW_PRESSURE | State: LOW_PRESSURE | Action: CHECK_PRESSURE | Result: Low pressure detected. Inspection required.
+2026-10-11T16:41:11 | Reading: {'temperature': 97.15, 'pressure': 1.83, 'vibration': 3.53, 'current': 18.48, 'rpm': 1923} | Rule: EMERGENCY_HIGH_TEMP | State: OVERHEATING | Action: EMERGENCY_STOP | Result: Emergency stop requested!
+2026-10-11T16:41:12 | Reading: {'temperature': 78.35, 'pressure': 1.84, 'vibration': 5.97, 'current': 21.77, 'rpm': 1443} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:41:13 | Reading: {'temperature': 51.07, 'pressure': 3.21, 'vibration': 7.64, 'current': 11.6, 'rpm': 1691} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:41:14 | Reading: {'temperature': 94.81, 'pressure': 3.81, 'vibration': 3.76, 'current': 26.26, 'rpm': 1810} | Rule: EMERGENCY_HIGH_TEMP | State: OVERHEATING | Action: EMERGENCY_STOP | Result: Emergency stop requested!
+2026-10-11T16:41:15 | Reading: {'temperature': 82.47, 'pressure': 4.51, 'vibration': 2.67, 'current': 10.28, 'rpm': 1563} | Rule: HIGH_TEMPERATURE | State: OVERHEATING | Action: COOL_MACHINE | Result: Cooling action requested.
+2026-10-11T16:41:16 | Reading: {'temperature': 83.35, 'pressure': 4.54, 'vibration': 3.75, 'current': 11.07, 'rpm': 2046} | Rule: HIGH_TEMPERATURE | State: OVERHEATING | Action: COOL_MACHINE | Result: Cooling action requested.
+2026-10-11T16:41:17 | Reading: {'temperature': 72.34, 'pressure': 2.82, 'vibration': 7.2, 'current': 23.61, 'rpm': 1522} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:41:18 | Reading: {'temperature': 56.7, 'pressure': 3.56, 'vibration': 1.33, 'current': 6.95, 'rpm': 1620} | Rule: NO_RULE_FIRED | State: NORMAL | Action: CONTINUE_NORMAL | Result: Machine operating normally.
+2026-10-11T16:41:19 | Reading: {'temperature': 89.89, 'pressure': 3.38, 'vibration': 3.77, 'current': 20.81, 'rpm': 1893} | Rule: MOTOR_OVERLOAD | State: MOTOR_OVERLOAD | Action: REDUCE_LOAD | Result: Load reduction requested.
+2026-10-11T16:41:20 | Reading: {'temperature': 94.43, 'pressure': 2.74, 'vibration': 7.82, 'current': 12.96, 'rpm': 1881} | Rule: EMERGENCY_HIGH_TEMP | State: OVERHEATING | Action: EMERGENCY_STOP | Result: Emergency stop requested!
+2026-10-11T16:41:21 | Reading: {'temperature': 86.95, 'pressure': 3.73, 'vibration': 8.86, 'current': 27.2, 'rpm': 2131} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:41:22 | Reading: {'temperature': 90.53, 'pressure': 1.62, 'vibration': 2.39, 'current': 7.73, 'rpm': 1697} | Rule: EMERGENCY_HIGH_TEMP | State: OVERHEATING | Action: EMERGENCY_STOP | Result: Emergency stop requested!
+2026-10-11T16:41:23 | Reading: {'temperature': 89.62, 'pressure': 3.23, 'vibration': 9.4, 'current': 11.26, 'rpm': 1686} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:41:24 | Reading: {'temperature': 87.57, 'pressure': 2.83, 'vibration': 2.61, 'current': 5.17, 'rpm': 1629} | Rule: HIGH_TEMPERATURE | State: OVERHEATING | Action: COOL_MACHINE | Result: Cooling action requested.
+2026-10-11T16:41:25 | Reading: {'temperature': 95.28, 'pressure': 1.91, 'vibration': 9.08, 'current': 13.01, 'rpm': 2075} | Rule: EMERGENCY_HIGH_TEMP | State: OVERHEATING | Action: EMERGENCY_STOP | Result: Emergency stop requested!
+2026-10-11T16:41:26 | Reading: {'temperature': 58.15, 'pressure': 1.42, 'vibration': 4.46, 'current': 29.9, 'rpm': 1784} | Rule: LOW_PRESSURE | State: LOW_PRESSURE | Action: CHECK_PRESSURE | Result: Low pressure detected. Inspection required.
+2026-10-11T16:41:27 | Reading: {'temperature': 77.22, 'pressure': 1.05, 'vibration': 0.39, 'current': 21.02, 'rpm': 1992} | Rule: LOW_PRESSURE | State: LOW_PRESSURE | Action: CHECK_PRESSURE | Result: Low pressure detected. Inspection required.
+2026-10-11T16:41:28 | Reading: {'temperature': 85.2, 'pressure': 1.56, 'vibration': 3.64, 'current': 7.33, 'rpm': 1937} | Rule: HIGH_TEMPERATURE | State: OVERHEATING | Action: COOL_MACHINE | Result: Cooling action requested.
+2026-10-11T16:41:29 | Reading: {'temperature': 51.34, 'pressure': 1.74, 'vibration': 3.11, 'current': 29.52, 'rpm': 1903} | Rule: MOTOR_OVERLOAD | State: MOTOR_OVERLOAD | Action: REDUCE_LOAD | Result: Load reduction requested.
+2026-10-11T16:41:30 | Reading: {'temperature': 80.36, 'pressure': 2.32, 'vibration': 4.07, 'current': 5.71, 'rpm': 2050} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:41:31 | Reading: {'temperature': 83.01, 'pressure': 2.61, 'vibration': 1.58, 'current': 29.01, 'rpm': 2125} | Rule: MOTOR_OVERLOAD | State: MOTOR_OVERLOAD | Action: REDUCE_LOAD | Result: Load reduction requested.
+2026-10-11T16:41:32 | Reading: {'temperature': 95.29, 'pressure': 2.47, 'vibration': 5.07, 'current': 28.55, 'rpm': 1719} | Rule: EMERGENCY_HIGH_TEMP | State: OVERHEATING | Action: EMERGENCY_STOP | Result: Emergency stop requested!
+2026-10-11T16:41:33 | Reading: {'temperature': 95.24, 'pressure': 4.26, 'vibration': 2.57, 'current': 9.51, 'rpm': 2111} | Rule: EMERGENCY_HIGH_TEMP | State: OVERHEATING | Action: EMERGENCY_STOP | Result: Emergency stop requested!
+2026-10-11T16:41:34 | Reading: {'temperature': 73.74, 'pressure': 4.13, 'vibration': 8.09, 'current': 8.47, 'rpm': 1699} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:41:35 | Reading: {'temperature': 51.21, 'pressure': 2.66, 'vibration': 6.39, 'current': 25.57, 'rpm': 1691} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:41:36 | Reading: {'temperature': 82.49, 'pressure': 3.96, 'vibration': 9.02, 'current': 28.87, 'rpm': 2189} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:41:37 | Reading: {'temperature': 84.47, 'pressure': 3.55, 'vibration': 6.89, 'current': 20.84, 'rpm': 1582} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:41:38 | Reading: {'temperature': 73.24, 'pressure': 3.4, 'vibration': 5.12, 'current': 29.52, 'rpm': 2169} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:41:39 | Reading: {'temperature': 56.49, 'pressure': 4.01, 'vibration': 8.37, 'current': 17.57, 'rpm': 2170} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:41:40 | Reading: {'temperature': 84.17, 'pressure': 4.49, 'vibration': 8.22, 'current': 18.98, 'rpm': 1720} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:41:41 | Reading: {'temperature': 73.42, 'pressure': 4.9, 'vibration': 0.29, 'current': 28.52, 'rpm': 1698} | Rule: MOTOR_OVERLOAD | State: MOTOR_OVERLOAD | Action: REDUCE_LOAD | Result: Load reduction requested.
+2026-10-11T16:41:42 | Reading: {'temperature': 52.38, 'pressure': 2.04, 'vibration': 1.63, 'current': 12.99, 'rpm': 1417} | Rule: NO_RULE_FIRED | State: NORMAL | Action: CONTINUE_NORMAL | Result: Machine operating normally.
+2026-10-11T16:41:43 | Reading: {'temperature': 92.62, 'pressure': 2.5, 'vibration': 4.58, 'current': 29.46, 'rpm': 1525} | Rule: EMERGENCY_HIGH_TEMP | State: OVERHEATING | Action: EMERGENCY_STOP | Result: Emergency stop requested!
+2026-10-11T16:41:44 | Reading: {'temperature': 82.59, 'pressure': 1.12, 'vibration': 8.62, 'current': 8.41, 'rpm': 1693} | Rule: LOW_PRESSURE | State: LOW_PRESSURE | Action: CHECK_PRESSURE | Result: Low pressure detected. Inspection required.
+2026-10-11T16:41:45 | Reading: {'temperature': 86.53, 'pressure': 1.14, 'vibration': 3.23, 'current': 7.08, 'rpm': 1749} | Rule: LOW_PRESSURE | State: LOW_PRESSURE | Action: CHECK_PRESSURE | Result: Low pressure detected. Inspection required.
+2026-10-11T16:41:47 | Reading: {'temperature': 56.07, 'pressure': 2.45, 'vibration': 3.18, 'current': 12.45, 'rpm': 2054} | Rule: NO_RULE_FIRED | State: NORMAL | Action: CONTINUE_NORMAL | Result: Machine operating normally.
+2026-10-11T16:41:48 | Reading: {'temperature': 52.75, 'pressure': 2.73, 'vibration': 3.87, 'current': 17.03, 'rpm': 1753} | Rule: NO_RULE_FIRED | State: NORMAL | Action: CONTINUE_NORMAL | Result: Machine operating normally.
+2026-10-11T16:41:49 | Reading: {'temperature': 81.79, 'pressure': 3.55, 'vibration': 1.45, 'current': 7.35, 'rpm': 1920} | Rule: HIGH_TEMPERATURE | State: OVERHEATING | Action: COOL_MACHINE | Result: Cooling action requested.
+2026-10-11T16:41:50 | Reading: {'temperature': 86.68, 'pressure': 4.13, 'vibration': 6.13, 'current': 14.43, 'rpm': 1448} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:41:51 | Reading: {'temperature': 60.95, 'pressure': 3.08, 'vibration': 7.17, 'current': 5.96, 'rpm': 2194} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:41:52 | Reading: {'temperature': 57.34, 'pressure': 1.18, 'vibration': 9.3, 'current': 5.49, 'rpm': 1551} | Rule: LOW_PRESSURE | State: LOW_PRESSURE | Action: CHECK_PRESSURE | Result: Low pressure detected. Inspection required.
+2026-10-11T16:41:53 | Reading: {'temperature': 81.56, 'pressure': 3.74, 'vibration': 8.74, 'current': 18.05, 'rpm': 2044} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:41:54 | Reading: {'temperature': 55.07, 'pressure': 3.46, 'vibration': 1.36, 'current': 15.65, 'rpm': 1974} | Rule: NO_RULE_FIRED | State: NORMAL | Action: CONTINUE_NORMAL | Result: Machine operating normally.
+2026-10-11T16:41:55 | Reading: {'temperature': 78.96, 'pressure': 1.96, 'vibration': 8.99, 'current': 27.87, 'rpm': 2163} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:41:56 | Reading: {'temperature': 60.13, 'pressure': 3.51, 'vibration': 7.6, 'current': 13.41, 'rpm': 1517} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:41:57 | Reading: {'temperature': 54.87, 'pressure': 3.96, 'vibration': 1.19, 'current': 11.12, 'rpm': 1886} | Rule: NO_RULE_FIRED | State: NORMAL | Action: CONTINUE_NORMAL | Result: Machine operating normally.
+2026-10-11T16:41:58 | Reading: {'temperature': 79.71, 'pressure': 1.47, 'vibration': 4.0, 'current': 29.13, 'rpm': 1590} | Rule: LOW_PRESSURE | State: LOW_PRESSURE | Action: CHECK_PRESSURE | Result: Low pressure detected. Inspection required.
+2026-10-11T16:41:59 | Reading: {'temperature': 52.96, 'pressure': 4.93, 'vibration': 3.86, 'current': 14.28, 'rpm': 2106} | Rule: HIGH_PRESSURE | State: HIGH_PRESSURE | Action: CHECK_HIGH_PRESSURE | Result: High pressure detected. Inspection required.
+2026-10-11T16:42:00 | Reading: {'temperature': 88.1, 'pressure': 3.97, 'vibration': 4.43, 'current': 27.62, 'rpm': 1860} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:42:01 | Reading: {'temperature': 65.93, 'pressure': 4.5, 'vibration': 4.85, 'current': 13.19, 'rpm': 2096} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:42:02 | Reading: {'temperature': 78.83, 'pressure': 2.25, 'vibration': 7.41, 'current': 6.29, 'rpm': 2022} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:42:03 | Reading: {'temperature': 72.58, 'pressure': 2.04, 'vibration': 0.5, 'current': 21.1, 'rpm': 1968} | Rule: MOTOR_OVERLOAD | State: MOTOR_OVERLOAD | Action: REDUCE_LOAD | Result: Load reduction requested.
+2026-10-11T16:42:04 | Reading: {'temperature': 73.45, 'pressure': 2.36, 'vibration': 8.56, 'current': 15.83, 'rpm': 1538} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:42:05 | Reading: {'temperature': 72.92, 'pressure': 1.54, 'vibration': 2.27, 'current': 27.64, 'rpm': 1587} | Rule: MOTOR_OVERLOAD | State: MOTOR_OVERLOAD | Action: REDUCE_LOAD | Result: Load reduction requested.
+2026-10-11T16:42:06 | Reading: {'temperature': 64.48, 'pressure': 1.8, 'vibration': 8.69, 'current': 9.71, 'rpm': 1607} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:42:07 | Reading: {'temperature': 83.64, 'pressure': 2.87, 'vibration': 3.23, 'current': 23.08, 'rpm': 1860} | Rule: MOTOR_OVERLOAD | State: MOTOR_OVERLOAD | Action: REDUCE_LOAD | Result: Load reduction requested.
+2026-10-11T16:42:08 | Reading: {'temperature': 52.35, 'pressure': 4.77, 'vibration': 0.5, 'current': 16.15, 'rpm': 2071} | Rule: HIGH_PRESSURE | State: HIGH_PRESSURE | Action: CHECK_HIGH_PRESSURE | Result: High pressure detected. Inspection required.
+2026-10-11T16:42:09 | Reading: {'temperature': 92.45, 'pressure': 3.69, 'vibration': 8.47, 'current': 25.67, 'rpm': 1752} | Rule: EMERGENCY_HIGH_TEMP | State: OVERHEATING | Action: EMERGENCY_STOP | Result: Emergency stop requested!
+2026-10-11T16:42:10 | Reading: {'temperature': 64.08, 'pressure': 1.83, 'vibration': 0.33, 'current': 10.11, 'rpm': 1833} | Rule: NO_RULE_FIRED | State: NORMAL | Action: CONTINUE_NORMAL | Result: Machine operating normally.
+2026-10-11T16:42:11 | Reading: {'temperature': 77.27, 'pressure': 1.87, 'vibration': 9.85, 'current': 25.81, 'rpm': 1638} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:42:12 | Reading: {'temperature': 70.2, 'pressure': 4.74, 'vibration': 1.24, 'current': 18.58, 'rpm': 2186} | Rule: HIGH_PRESSURE | State: HIGH_PRESSURE | Action: CHECK_HIGH_PRESSURE | Result: High pressure detected. Inspection required.
+2026-10-11T16:42:13 | Reading: {'temperature': 52.62, 'pressure': 3.03, 'vibration': 7.9, 'current': 10.4, 'rpm': 1622} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:42:14 | Reading: {'temperature': 73.45, 'pressure': 2.03, 'vibration': 6.66, 'current': 9.08, 'rpm': 1946} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:42:15 | Reading: {'temperature': 79.14, 'pressure': 3.14, 'vibration': 6.6, 'current': 19.62, 'rpm': 1460} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:42:16 | Reading: {'temperature': 70.92, 'pressure': 2.97, 'vibration': 7.02, 'current': 28.66, 'rpm': 1677} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:42:17 | Reading: {'temperature': 83.76, 'pressure': 1.5, 'vibration': 1.33, 'current': 15.2, 'rpm': 1896} | Rule: HIGH_TEMPERATURE | State: OVERHEATING | Action: COOL_MACHINE | Result: Cooling action requested.
+2026-10-11T16:42:18 | Reading: {'temperature': 86.01, 'pressure': 1.63, 'vibration': 1.59, 'current': 28.63, 'rpm': 1706} | Rule: MOTOR_OVERLOAD | State: MOTOR_OVERLOAD | Action: REDUCE_LOAD | Result: Load reduction requested.
+2026-10-11T16:42:19 | Reading: {'temperature': 67.95, 'pressure': 2.86, 'vibration': 7.54, 'current': 15.06, 'rpm': 1882} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:42:20 | Reading: {'temperature': 84.14, 'pressure': 2.23, 'vibration': 9.37, 'current': 23.56, 'rpm': 2073} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:42:21 | Reading: {'temperature': 69.13, 'pressure': 4.57, 'vibration': 8.95, 'current': 10.53, 'rpm': 2099} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:42:22 | Reading: {'temperature': 97.21, 'pressure': 2.31, 'vibration': 7.83, 'current': 7.53, 'rpm': 1446} | Rule: EMERGENCY_HIGH_TEMP | State: OVERHEATING | Action: EMERGENCY_STOP | Result: Emergency stop requested!
+2026-10-11T16:42:23 | Reading: {'temperature': 64.81, 'pressure': 1.98, 'vibration': 2.16, 'current': 5.14, 'rpm': 1430} | Rule: NO_RULE_FIRED | State: NORMAL | Action: CONTINUE_NORMAL | Result: Machine operating normally.
+2026-10-11T16:42:24 | Reading: {'temperature': 67.23, 'pressure': 4.13, 'vibration': 7.29, 'current': 18.95, 'rpm': 1510} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+2026-10-11T16:42:25 | Reading: {'temperature': 74.02, 'pressure': 2.45, 'vibration': 0.25, 'current': 5.64, 'rpm': 1950} | Rule: NO_RULE_FIRED | State: NORMAL | Action: CONTINUE_NORMAL | Result: Machine operating normally.
+2026-10-11T16:42:26 | Reading: {'temperature': 75.14, 'pressure': 4.29, 'vibration': 6.4, 'current': 10.34, 'rpm': 1500} | Rule: HIGH_VIBRATION | State: HIGH_VIBRATION | Action: STOP_MACHINE | Result: Machine stop requested due to vibration.
+Sun Oct 11 16:43:28 2026 | {'temperature': 78.86, 'pressure': 3.83, 'vibration': 6.88, 'current': 12.48, 'rpm': 2130} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:28 2026 | {'temperature': 93.45, 'pressure': 5.42, 'vibration': 9.94, 'current': 19.86, 'rpm': 1680} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:28 2026 | {'temperature': 64.28, 'pressure': 1.87, 'vibration': 3.59, 'current': 15.94, 'rpm': 1822} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:29 2026 | {'temperature': 60.91, 'pressure': 4.94, 'vibration': 8.99, 'current': 21.43, 'rpm': 1454} | HIGH_VIBRATION | CHECK_MACHINE
+Sun Oct 11 16:43:29 2026 | {'temperature': 70.05, 'pressure': 1.73, 'vibration': 3.74, 'current': 28.89, 'rpm': 1846} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:29 2026 | {'temperature': 87.94, 'pressure': 2.13, 'vibration': 9.57, 'current': 13.58, 'rpm': 1798} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:29 2026 | {'temperature': 61.04, 'pressure': 1.38, 'vibration': 5.32, 'current': 18.65, 'rpm': 1913} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:29 2026 | {'temperature': 60.04, 'pressure': 1.91, 'vibration': 9.31, 'current': 19.43, 'rpm': 1766} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:30 2026 | {'temperature': 61.49, 'pressure': 2.7, 'vibration': 2.6, 'current': 13.93, 'rpm': 1963} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:30 2026 | {'temperature': 56.4, 'pressure': 1.96, 'vibration': 4.4, 'current': 25.93, 'rpm': 1655} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:30 2026 | {'temperature': 95.53, 'pressure': 3.26, 'vibration': 7.17, 'current': 27.26, 'rpm': 2039} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:30 2026 | {'temperature': 97.91, 'pressure': 1.56, 'vibration': 8.64, 'current': 27.86, 'rpm': 2157} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:30 2026 | {'temperature': 65.24, 'pressure': 5.52, 'vibration': 8.68, 'current': 25.13, 'rpm': 2098} | HIGH_VIBRATION | CHECK_MACHINE
+Sun Oct 11 16:43:31 2026 | {'temperature': 88.23, 'pressure': 1.35, 'vibration': 1.73, 'current': 11.05, 'rpm': 1737} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:31 2026 | {'temperature': 64.62, 'pressure': 4.71, 'vibration': 5.81, 'current': 27.95, 'rpm': 1730} | MOTOR_OVERLOAD | REDUCE_LOAD
+Sun Oct 11 16:43:31 2026 | {'temperature': 92.7, 'pressure': 2.44, 'vibration': 6.09, 'current': 14.74, 'rpm': 1512} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:31 2026 | {'temperature': 67.11, 'pressure': 3.7, 'vibration': 9.97, 'current': 26.77, 'rpm': 2031} | HIGH_VIBRATION | CHECK_MACHINE
+Sun Oct 11 16:43:31 2026 | {'temperature': 61.58, 'pressure': 5.78, 'vibration': 3.11, 'current': 28.43, 'rpm': 1519} | MOTOR_OVERLOAD | REDUCE_LOAD
+Sun Oct 11 16:43:32 2026 | {'temperature': 86.26, 'pressure': 1.91, 'vibration': 6.39, 'current': 17.12, 'rpm': 1771} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:32 2026 | {'temperature': 97.12, 'pressure': 1.96, 'vibration': 7.67, 'current': 18.41, 'rpm': 1611} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:32 2026 | {'temperature': 86.96, 'pressure': 5.5, 'vibration': 9.46, 'current': 18.21, 'rpm': 2186} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:32 2026 | {'temperature': 88.55, 'pressure': 1.67, 'vibration': 1.97, 'current': 22.27, 'rpm': 1819} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:33 2026 | {'temperature': 68.64, 'pressure': 5.69, 'vibration': 6.37, 'current': 27.27, 'rpm': 1945} | HIGH_VIBRATION | CHECK_MACHINE
+Sun Oct 11 16:43:33 2026 | {'temperature': 97.63, 'pressure': 4.9, 'vibration': 2.55, 'current': 8.94, 'rpm': 1470} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:33 2026 | {'temperature': 72.15, 'pressure': 5.14, 'vibration': 7.2, 'current': 15.06, 'rpm': 1501} | HIGH_VIBRATION | CHECK_MACHINE
+Sun Oct 11 16:43:33 2026 | {'temperature': 79.57, 'pressure': 5.54, 'vibration': 3.31, 'current': 13.93, 'rpm': 1938} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:33 2026 | {'temperature': 92.55, 'pressure': 1.46, 'vibration': 7.66, 'current': 28.62, 'rpm': 1433} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:34 2026 | {'temperature': 86.75, 'pressure': 6.3, 'vibration': 9.47, 'current': 12.17, 'rpm': 1545} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:34 2026 | {'temperature': 79.32, 'pressure': 5.76, 'vibration': 1.18, 'current': 21.45, 'rpm': 1697} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:34 2026 | {'temperature': 95.71, 'pressure': 5.82, 'vibration': 3.12, 'current': 19.88, 'rpm': 2148} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:34 2026 | {'temperature': 78.6, 'pressure': 1.53, 'vibration': 6.92, 'current': 12.5, 'rpm': 1696} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:34 2026 | {'temperature': 88.3, 'pressure': 1.91, 'vibration': 5.23, 'current': 13.57, 'rpm': 1931} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:35 2026 | {'temperature': 86.01, 'pressure': 1.3, 'vibration': 8.98, 'current': 15.63, 'rpm': 1549} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:35 2026 | {'temperature': 92.95, 'pressure': 3.51, 'vibration': 2.43, 'current': 26.41, 'rpm': 2007} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:35 2026 | {'temperature': 63.9, 'pressure': 2.89, 'vibration': 3.14, 'current': 22.41, 'rpm': 1998} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:35 2026 | {'temperature': 88.99, 'pressure': 4.39, 'vibration': 3.92, 'current': 16.37, 'rpm': 1556} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:35 2026 | {'temperature': 65.94, 'pressure': 3.4, 'vibration': 5.21, 'current': 9.57, 'rpm': 1443} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:36 2026 | {'temperature': 79.67, 'pressure': 4.35, 'vibration': 4.37, 'current': 18.77, 'rpm': 1833} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:36 2026 | {'temperature': 91.42, 'pressure': 6.33, 'vibration': 1.89, 'current': 8.99, 'rpm': 1662} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:36 2026 | {'temperature': 96.32, 'pressure': 6.23, 'vibration': 8.84, 'current': 16.3, 'rpm': 2056} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:36 2026 | {'temperature': 95.69, 'pressure': 4.25, 'vibration': 9.38, 'current': 24.66, 'rpm': 1411} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:36 2026 | {'temperature': 65.52, 'pressure': 2.63, 'vibration': 9.82, 'current': 26.81, 'rpm': 2183} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:37 2026 | {'temperature': 68.05, 'pressure': 3.51, 'vibration': 2.61, 'current': 28.82, 'rpm': 1980} | MOTOR_OVERLOAD | REDUCE_LOAD
+Sun Oct 11 16:43:37 2026 | {'temperature': 79.91, 'pressure': 6.1, 'vibration': 7.41, 'current': 26.54, 'rpm': 1589} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:37 2026 | {'temperature': 95.57, 'pressure': 4.18, 'vibration': 2.37, 'current': 27.03, 'rpm': 1656} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:37 2026 | {'temperature': 86.34, 'pressure': 2.85, 'vibration': 6.55, 'current': 25.47, 'rpm': 2058} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:37 2026 | {'temperature': 93.76, 'pressure': 1.4, 'vibration': 3.44, 'current': 14.81, 'rpm': 1923} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:38 2026 | {'temperature': 89.63, 'pressure': 1.91, 'vibration': 7.21, 'current': 27.25, 'rpm': 1873} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:38 2026 | {'temperature': 58.33, 'pressure': 2.94, 'vibration': 2.0, 'current': 14.21, 'rpm': 1716} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:38 2026 | {'temperature': 85.11, 'pressure': 4.89, 'vibration': 7.11, 'current': 12.14, 'rpm': 1524} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:38 2026 | {'temperature': 70.43, 'pressure': 5.54, 'vibration': 7.07, 'current': 21.33, 'rpm': 2051} | HIGH_VIBRATION | CHECK_MACHINE
+Sun Oct 11 16:43:38 2026 | {'temperature': 87.9, 'pressure': 6.18, 'vibration': 8.09, 'current': 14.26, 'rpm': 1403} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:39 2026 | {'temperature': 64.31, 'pressure': 5.05, 'vibration': 4.96, 'current': 17.91, 'rpm': 1591} | NORMAL | CONTINUE_NORMAL
+Sun Oct 11 16:43:39 2026 | {'temperature': 75.75, 'pressure': 5.69, 'vibration': 3.19, 'current': 20.07, 'rpm': 1514} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:39 2026 | {'temperature': 57.57, 'pressure': 5.66, 'vibration': 7.56, 'current': 27.38, 'rpm': 2126} | HIGH_VIBRATION | CHECK_MACHINE
+Sun Oct 11 16:43:39 2026 | {'temperature': 90.21, 'pressure': 3.66, 'vibration': 8.01, 'current': 27.41, 'rpm': 2099} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:39 2026 | {'temperature': 62.62, 'pressure': 4.11, 'vibration': 1.95, 'current': 10.07, 'rpm': 1678} | NORMAL | CONTINUE_NORMAL
+Sun Oct 11 16:43:40 2026 | {'temperature': 72.39, 'pressure': 5.64, 'vibration': 5.81, 'current': 16.06, 'rpm': 2198} | NORMAL | CONTINUE_NORMAL
+Sun Oct 11 16:43:40 2026 | {'temperature': 97.28, 'pressure': 2.5, 'vibration': 2.47, 'current': 11.54, 'rpm': 2136} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:40 2026 | {'temperature': 65.56, 'pressure': 6.32, 'vibration': 3.31, 'current': 27.55, 'rpm': 1418} | MOTOR_OVERLOAD | REDUCE_LOAD
+Sun Oct 11 16:43:40 2026 | {'temperature': 94.08, 'pressure': 5.43, 'vibration': 1.6, 'current': 27.29, 'rpm': 1831} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:40 2026 | {'temperature': 59.05, 'pressure': 5.82, 'vibration': 9.93, 'current': 11.36, 'rpm': 1579} | HIGH_VIBRATION | CHECK_MACHINE
+Sun Oct 11 16:43:41 2026 | {'temperature': 82.35, 'pressure': 6.42, 'vibration': 4.48, 'current': 12.19, 'rpm': 1447} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:41 2026 | {'temperature': 62.35, 'pressure': 2.44, 'vibration': 2.34, 'current': 10.51, 'rpm': 1684} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:41 2026 | {'temperature': 71.73, 'pressure': 5.11, 'vibration': 7.6, 'current': 22.74, 'rpm': 2085} | HIGH_VIBRATION | CHECK_MACHINE
+Sun Oct 11 16:43:41 2026 | {'temperature': 89.77, 'pressure': 2.23, 'vibration': 5.29, 'current': 21.06, 'rpm': 1943} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:41 2026 | {'temperature': 57.68, 'pressure': 5.93, 'vibration': 2.55, 'current': 9.75, 'rpm': 1991} | NORMAL | CONTINUE_NORMAL
+Sun Oct 11 16:43:42 2026 | {'temperature': 70.27, 'pressure': 5.44, 'vibration': 3.87, 'current': 10.9, 'rpm': 1447} | NORMAL | CONTINUE_NORMAL
+Sun Oct 11 16:43:42 2026 | {'temperature': 89.2, 'pressure': 4.9, 'vibration': 2.96, 'current': 24.06, 'rpm': 1483} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:42 2026 | {'temperature': 83.0, 'pressure': 2.14, 'vibration': 5.95, 'current': 9.07, 'rpm': 1587} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:42 2026 | {'temperature': 96.22, 'pressure': 5.65, 'vibration': 3.95, 'current': 18.13, 'rpm': 1514} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:42 2026 | {'temperature': 85.94, 'pressure': 5.96, 'vibration': 2.01, 'current': 15.14, 'rpm': 1564} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:43 2026 | {'temperature': 86.0, 'pressure': 5.89, 'vibration': 6.63, 'current': 17.45, 'rpm': 1515} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:43 2026 | {'temperature': 75.73, 'pressure': 4.67, 'vibration': 3.63, 'current': 23.16, 'rpm': 1818} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:43 2026 | {'temperature': 66.79, 'pressure': 4.36, 'vibration': 7.99, 'current': 8.21, 'rpm': 1536} | HIGH_VIBRATION | CHECK_MACHINE
+Sun Oct 11 16:43:43 2026 | {'temperature': 58.29, 'pressure': 1.23, 'vibration': 2.02, 'current': 25.6, 'rpm': 1662} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:43 2026 | {'temperature': 68.63, 'pressure': 3.1, 'vibration': 7.54, 'current': 22.77, 'rpm': 1569} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:44 2026 | {'temperature': 64.74, 'pressure': 1.73, 'vibration': 7.97, 'current': 27.6, 'rpm': 1770} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:44 2026 | {'temperature': 76.54, 'pressure': 3.71, 'vibration': 2.27, 'current': 11.74, 'rpm': 1613} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:44 2026 | {'temperature': 70.55, 'pressure': 4.61, 'vibration': 7.04, 'current': 8.08, 'rpm': 1773} | HIGH_VIBRATION | CHECK_MACHINE
+Sun Oct 11 16:43:44 2026 | {'temperature': 68.51, 'pressure': 5.99, 'vibration': 3.96, 'current': 24.62, 'rpm': 1569} | MOTOR_OVERLOAD | REDUCE_LOAD
+Sun Oct 11 16:43:44 2026 | {'temperature': 65.37, 'pressure': 4.36, 'vibration': 8.86, 'current': 17.61, 'rpm': 2151} | HIGH_VIBRATION | CHECK_MACHINE
+Sun Oct 11 16:43:45 2026 | {'temperature': 58.98, 'pressure': 3.02, 'vibration': 7.23, 'current': 23.21, 'rpm': 1677} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:45 2026 | {'temperature': 79.25, 'pressure': 3.57, 'vibration': 6.0, 'current': 15.56, 'rpm': 1710} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:45 2026 | {'temperature': 95.04, 'pressure': 4.58, 'vibration': 5.13, 'current': 17.56, 'rpm': 1857} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:45 2026 | {'temperature': 59.66, 'pressure': 1.31, 'vibration': 3.9, 'current': 24.26, 'rpm': 1409} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:46 2026 | {'temperature': 74.26, 'pressure': 2.92, 'vibration': 3.47, 'current': 25.51, 'rpm': 1673} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:46 2026 | {'temperature': 81.63, 'pressure': 2.2, 'vibration': 7.54, 'current': 16.89, 'rpm': 1525} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:46 2026 | {'temperature': 90.06, 'pressure': 1.64, 'vibration': 9.41, 'current': 11.48, 'rpm': 1686} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:46 2026 | {'temperature': 92.45, 'pressure': 3.35, 'vibration': 2.53, 'current': 17.93, 'rpm': 1661} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:46 2026 | {'temperature': 91.1, 'pressure': 3.48, 'vibration': 2.87, 'current': 23.26, 'rpm': 1474} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:47 2026 | {'temperature': 92.3, 'pressure': 1.56, 'vibration': 3.75, 'current': 15.04, 'rpm': 1556} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:47 2026 | {'temperature': 71.19, 'pressure': 4.49, 'vibration': 2.98, 'current': 14.57, 'rpm': 1860} | NORMAL | CONTINUE_NORMAL
+Sun Oct 11 16:43:47 2026 | {'temperature': 72.36, 'pressure': 6.08, 'vibration': 8.84, 'current': 15.38, 'rpm': 2040} | HIGH_VIBRATION | CHECK_MACHINE
+Sun Oct 11 16:43:47 2026 | {'temperature': 66.57, 'pressure': 3.04, 'vibration': 5.62, 'current': 10.22, 'rpm': 2025} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:47 2026 | {'temperature': 76.48, 'pressure': 1.72, 'vibration': 1.45, 'current': 19.18, 'rpm': 1552} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:48 2026 | {'temperature': 91.89, 'pressure': 4.81, 'vibration': 6.04, 'current': 24.81, 'rpm': 2032} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:48 2026 | {'temperature': 88.83, 'pressure': 2.64, 'vibration': 5.54, 'current': 26.75, 'rpm': 1748} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:48 2026 | {'temperature': 88.19, 'pressure': 2.2, 'vibration': 7.76, 'current': 18.63, 'rpm': 1882} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:48 2026 | {'temperature': 93.16, 'pressure': 3.04, 'vibration': 4.71, 'current': 11.26, 'rpm': 1562} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:48 2026 | {'temperature': 61.21, 'pressure': 5.18, 'vibration': 5.0, 'current': 17.07, 'rpm': 1532} | NORMAL | CONTINUE_NORMAL
+Sun Oct 11 16:43:49 2026 | {'temperature': 78.89, 'pressure': 2.26, 'vibration': 5.13, 'current': 17.55, 'rpm': 1654} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:49 2026 | {'temperature': 61.69, 'pressure': 3.29, 'vibration': 8.96, 'current': 18.04, 'rpm': 1813} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:49 2026 | {'temperature': 93.69, 'pressure': 2.77, 'vibration': 7.06, 'current': 16.22, 'rpm': 1535} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:49 2026 | {'temperature': 67.05, 'pressure': 5.45, 'vibration': 5.85, 'current': 16.48, 'rpm': 1801} | NORMAL | CONTINUE_NORMAL
+Sun Oct 11 16:43:49 2026 | {'temperature': 96.55, 'pressure': 2.38, 'vibration': 7.25, 'current': 12.38, 'rpm': 1652} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:50 2026 | {'temperature': 89.24, 'pressure': 5.67, 'vibration': 4.4, 'current': 20.41, 'rpm': 1523} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:50 2026 | {'temperature': 78.09, 'pressure': 2.66, 'vibration': 6.29, 'current': 13.35, 'rpm': 1503} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:50 2026 | {'temperature': 63.21, 'pressure': 3.12, 'vibration': 2.73, 'current': 21.11, 'rpm': 1502} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:50 2026 | {'temperature': 73.27, 'pressure': 3.28, 'vibration': 6.35, 'current': 8.58, 'rpm': 2099} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:50 2026 | {'temperature': 71.44, 'pressure': 3.84, 'vibration': 5.6, 'current': 19.88, 'rpm': 2127} | NORMAL | CONTINUE_NORMAL
+Sun Oct 11 16:43:51 2026 | {'temperature': 97.13, 'pressure': 5.22, 'vibration': 6.48, 'current': 19.95, 'rpm': 1696} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:51 2026 | {'temperature': 88.51, 'pressure': 2.46, 'vibration': 2.35, 'current': 14.58, 'rpm': 1888} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:51 2026 | {'temperature': 73.88, 'pressure': 5.84, 'vibration': 7.14, 'current': 26.34, 'rpm': 1817} | HIGH_VIBRATION | CHECK_MACHINE
+Sun Oct 11 16:43:51 2026 | {'temperature': 60.4, 'pressure': 5.74, 'vibration': 1.11, 'current': 16.07, 'rpm': 2046} | NORMAL | CONTINUE_NORMAL
+Sun Oct 11 16:43:51 2026 | {'temperature': 80.62, 'pressure': 6.46, 'vibration': 5.3, 'current': 14.08, 'rpm': 1515} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:52 2026 | {'temperature': 91.16, 'pressure': 5.38, 'vibration': 7.8, 'current': 23.86, 'rpm': 1511} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:52 2026 | {'temperature': 60.58, 'pressure': 1.52, 'vibration': 2.76, 'current': 9.38, 'rpm': 1607} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:52 2026 | {'temperature': 90.52, 'pressure': 3.48, 'vibration': 4.95, 'current': 20.33, 'rpm': 1946} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:52 2026 | {'temperature': 96.44, 'pressure': 6.39, 'vibration': 2.53, 'current': 8.43, 'rpm': 1889} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:52 2026 | {'temperature': 96.43, 'pressure': 1.52, 'vibration': 5.45, 'current': 19.98, 'rpm': 1821} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:53 2026 | {'temperature': 64.49, 'pressure': 4.8, 'vibration': 6.39, 'current': 14.84, 'rpm': 1671} | HIGH_VIBRATION | CHECK_MACHINE
+Sun Oct 11 16:43:53 2026 | {'temperature': 61.46, 'pressure': 3.77, 'vibration': 6.82, 'current': 22.19, 'rpm': 1690} | HIGH_VIBRATION | CHECK_MACHINE
+Sun Oct 11 16:43:53 2026 | {'temperature': 67.34, 'pressure': 4.64, 'vibration': 4.03, 'current': 23.93, 'rpm': 1931} | MOTOR_OVERLOAD | REDUCE_LOAD
+Sun Oct 11 16:43:53 2026 | {'temperature': 87.23, 'pressure': 2.15, 'vibration': 6.98, 'current': 21.28, 'rpm': 2175} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:53 2026 | {'temperature': 86.27, 'pressure': 4.18, 'vibration': 9.34, 'current': 22.81, 'rpm': 1696} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:54 2026 | {'temperature': 83.48, 'pressure': 5.48, 'vibration': 4.8, 'current': 15.81, 'rpm': 1509} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:54 2026 | {'temperature': 79.9, 'pressure': 2.24, 'vibration': 3.6, 'current': 28.86, 'rpm': 1628} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:54 2026 | {'temperature': 69.39, 'pressure': 2.03, 'vibration': 4.66, 'current': 24.53, 'rpm': 1960} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:54 2026 | {'temperature': 93.25, 'pressure': 2.14, 'vibration': 5.8, 'current': 23.22, 'rpm': 1915} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:54 2026 | {'temperature': 66.95, 'pressure': 6.32, 'vibration': 5.59, 'current': 11.79, 'rpm': 1898} | NORMAL | CONTINUE_NORMAL
+Sun Oct 11 16:43:55 2026 | {'temperature': 94.83, 'pressure': 4.31, 'vibration': 6.99, 'current': 17.74, 'rpm': 1871} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:55 2026 | {'temperature': 73.83, 'pressure': 1.25, 'vibration': 2.85, 'current': 12.42, 'rpm': 1576} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:55 2026 | {'temperature': 81.98, 'pressure': 1.24, 'vibration': 2.16, 'current': 23.09, 'rpm': 2081} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:55 2026 | {'temperature': 78.68, 'pressure': 5.75, 'vibration': 1.33, 'current': 18.78, 'rpm': 1478} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:56 2026 | {'temperature': 61.21, 'pressure': 5.07, 'vibration': 1.08, 'current': 9.08, 'rpm': 1969} | NORMAL | CONTINUE_NORMAL
+Sun Oct 11 16:43:56 2026 | {'temperature': 80.72, 'pressure': 1.65, 'vibration': 6.6, 'current': 27.06, 'rpm': 1723} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:56 2026 | {'temperature': 83.51, 'pressure': 4.26, 'vibration': 5.13, 'current': 27.92, 'rpm': 1832} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:56 2026 | {'temperature': 65.46, 'pressure': 1.03, 'vibration': 6.28, 'current': 25.02, 'rpm': 1613} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:56 2026 | {'temperature': 55.51, 'pressure': 4.14, 'vibration': 2.41, 'current': 27.66, 'rpm': 1848} | MOTOR_OVERLOAD | REDUCE_LOAD
+Sun Oct 11 16:43:57 2026 | {'temperature': 58.81, 'pressure': 4.26, 'vibration': 4.25, 'current': 18.25, 'rpm': 1754} | NORMAL | CONTINUE_NORMAL
+Sun Oct 11 16:43:57 2026 | {'temperature': 96.78, 'pressure': 2.39, 'vibration': 8.9, 'current': 20.73, 'rpm': 2108} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:57 2026 | {'temperature': 79.62, 'pressure': 1.48, 'vibration': 4.44, 'current': 13.64, 'rpm': 1614} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:57 2026 | {'temperature': 77.6, 'pressure': 1.75, 'vibration': 1.72, 'current': 28.69, 'rpm': 1965} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:57 2026 | {'temperature': 63.69, 'pressure': 1.43, 'vibration': 6.09, 'current': 23.9, 'rpm': 2148} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:58 2026 | {'temperature': 90.22, 'pressure': 1.48, 'vibration': 9.99, 'current': 26.83, 'rpm': 2076} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:58 2026 | {'temperature': 61.35, 'pressure': 3.09, 'vibration': 6.4, 'current': 17.94, 'rpm': 1501} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:58 2026 | {'temperature': 72.85, 'pressure': 6.48, 'vibration': 3.59, 'current': 9.91, 'rpm': 2180} | NORMAL | CONTINUE_NORMAL
+Sun Oct 11 16:43:58 2026 | {'temperature': 58.73, 'pressure': 5.82, 'vibration': 1.53, 'current': 18.6, 'rpm': 1456} | NORMAL | CONTINUE_NORMAL
+Sun Oct 11 16:43:58 2026 | {'temperature': 77.9, 'pressure': 6.31, 'vibration': 7.47, 'current': 19.46, 'rpm': 2132} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:59 2026 | {'temperature': 97.71, 'pressure': 4.61, 'vibration': 3.85, 'current': 12.89, 'rpm': 1933} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:59 2026 | {'temperature': 63.48, 'pressure': 5.84, 'vibration': 4.78, 'current': 23.7, 'rpm': 1802} | MOTOR_OVERLOAD | REDUCE_LOAD
+Sun Oct 11 16:43:59 2026 | {'temperature': 60.08, 'pressure': 2.25, 'vibration': 5.85, 'current': 22.55, 'rpm': 2134} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:43:59 2026 | {'temperature': 82.32, 'pressure': 4.75, 'vibration': 9.71, 'current': 23.69, 'rpm': 1878} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:43:59 2026 | {'temperature': 77.82, 'pressure': 1.32, 'vibration': 9.83, 'current': 11.14, 'rpm': 1673} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:00 2026 | {'temperature': 75.76, 'pressure': 5.02, 'vibration': 6.14, 'current': 13.97, 'rpm': 1659} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:00 2026 | {'temperature': 66.63, 'pressure': 3.99, 'vibration': 7.21, 'current': 24.42, 'rpm': 2037} | HIGH_VIBRATION | CHECK_MACHINE
+Sun Oct 11 16:44:00 2026 | {'temperature': 66.33, 'pressure': 3.85, 'vibration': 8.02, 'current': 26.42, 'rpm': 1912} | HIGH_VIBRATION | CHECK_MACHINE
+Sun Oct 11 16:44:00 2026 | {'temperature': 94.52, 'pressure': 2.74, 'vibration': 4.1, 'current': 25.94, 'rpm': 1884} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:00 2026 | {'temperature': 72.13, 'pressure': 6.31, 'vibration': 2.11, 'current': 24.9, 'rpm': 1908} | MOTOR_OVERLOAD | REDUCE_LOAD
+Sun Oct 11 16:44:01 2026 | {'temperature': 56.07, 'pressure': 2.42, 'vibration': 2.56, 'current': 18.79, 'rpm': 1655} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:44:01 2026 | {'temperature': 92.84, 'pressure': 4.01, 'vibration': 9.33, 'current': 25.31, 'rpm': 1806} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:01 2026 | {'temperature': 85.59, 'pressure': 1.82, 'vibration': 4.67, 'current': 18.64, 'rpm': 1640} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:01 2026 | {'temperature': 79.81, 'pressure': 1.06, 'vibration': 4.68, 'current': 9.85, 'rpm': 1815} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:01 2026 | {'temperature': 82.69, 'pressure': 3.2, 'vibration': 1.15, 'current': 8.22, 'rpm': 1950} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:02 2026 | {'temperature': 95.82, 'pressure': 5.46, 'vibration': 3.18, 'current': 9.32, 'rpm': 1950} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:02 2026 | {'temperature': 89.28, 'pressure': 2.97, 'vibration': 6.66, 'current': 22.82, 'rpm': 2056} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:02 2026 | {'temperature': 56.28, 'pressure': 2.17, 'vibration': 9.44, 'current': 14.55, 'rpm': 1534} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:44:02 2026 | {'temperature': 55.9, 'pressure': 1.13, 'vibration': 8.84, 'current': 10.96, 'rpm': 1974} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:44:02 2026 | {'temperature': 87.55, 'pressure': 2.64, 'vibration': 9.53, 'current': 8.8, 'rpm': 2025} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:03 2026 | {'temperature': 89.05, 'pressure': 4.55, 'vibration': 5.96, 'current': 9.95, 'rpm': 1695} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:03 2026 | {'temperature': 71.39, 'pressure': 3.75, 'vibration': 9.32, 'current': 12.94, 'rpm': 2070} | HIGH_VIBRATION | CHECK_MACHINE
+Sun Oct 11 16:44:03 2026 | {'temperature': 72.6, 'pressure': 3.43, 'vibration': 1.63, 'current': 18.58, 'rpm': 1802} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:44:03 2026 | {'temperature': 96.49, 'pressure': 4.69, 'vibration': 6.77, 'current': 14.28, 'rpm': 1694} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:03 2026 | {'temperature': 83.92, 'pressure': 6.26, 'vibration': 6.6, 'current': 19.45, 'rpm': 1890} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:04 2026 | {'temperature': 75.49, 'pressure': 1.51, 'vibration': 6.75, 'current': 14.06, 'rpm': 1684} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:04 2026 | {'temperature': 93.28, 'pressure': 5.01, 'vibration': 5.23, 'current': 12.51, 'rpm': 2030} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:04 2026 | {'temperature': 89.91, 'pressure': 2.67, 'vibration': 8.73, 'current': 13.32, 'rpm': 1816} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:04 2026 | {'temperature': 94.49, 'pressure': 5.56, 'vibration': 5.67, 'current': 25.22, 'rpm': 1622} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:04 2026 | {'temperature': 61.88, 'pressure': 4.78, 'vibration': 3.95, 'current': 24.36, 'rpm': 1781} | MOTOR_OVERLOAD | REDUCE_LOAD
+Sun Oct 11 16:44:05 2026 | {'temperature': 65.51, 'pressure': 4.83, 'vibration': 1.26, 'current': 22.71, 'rpm': 1788} | MOTOR_OVERLOAD | REDUCE_LOAD
+Sun Oct 11 16:44:05 2026 | {'temperature': 74.25, 'pressure': 6.47, 'vibration': 9.7, 'current': 27.29, 'rpm': 1853} | HIGH_VIBRATION | CHECK_MACHINE
+Sun Oct 11 16:44:05 2026 | {'temperature': 65.42, 'pressure': 2.41, 'vibration': 6.71, 'current': 15.35, 'rpm': 1903} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:44:05 2026 | {'temperature': 63.27, 'pressure': 2.93, 'vibration': 3.58, 'current': 25.34, 'rpm': 2101} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:44:05 2026 | {'temperature': 96.08, 'pressure': 3.46, 'vibration': 2.9, 'current': 20.73, 'rpm': 1911} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:06 2026 | {'temperature': 56.91, 'pressure': 2.09, 'vibration': 3.65, 'current': 9.1, 'rpm': 1790} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:44:06 2026 | {'temperature': 91.62, 'pressure': 4.34, 'vibration': 9.9, 'current': 23.25, 'rpm': 1508} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:06 2026 | {'temperature': 62.4, 'pressure': 2.29, 'vibration': 7.77, 'current': 9.93, 'rpm': 1559} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:44:06 2026 | {'temperature': 55.72, 'pressure': 1.36, 'vibration': 7.12, 'current': 10.73, 'rpm': 2158} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:44:07 2026 | {'temperature': 84.56, 'pressure': 1.2, 'vibration': 3.6, 'current': 26.43, 'rpm': 1868} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:07 2026 | {'temperature': 78.25, 'pressure': 6.0, 'vibration': 1.34, 'current': 25.89, 'rpm': 1671} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:07 2026 | {'temperature': 91.59, 'pressure': 5.77, 'vibration': 9.8, 'current': 13.52, 'rpm': 2105} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:07 2026 | {'temperature': 60.95, 'pressure': 5.23, 'vibration': 4.74, 'current': 24.0, 'rpm': 1599} | MOTOR_OVERLOAD | REDUCE_LOAD
+Sun Oct 11 16:44:07 2026 | {'temperature': 70.18, 'pressure': 5.86, 'vibration': 7.66, 'current': 22.74, 'rpm': 1751} | HIGH_VIBRATION | CHECK_MACHINE
+Sun Oct 11 16:44:08 2026 | {'temperature': 96.72, 'pressure': 5.94, 'vibration': 5.13, 'current': 20.59, 'rpm': 1660} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:08 2026 | {'temperature': 63.23, 'pressure': 2.55, 'vibration': 6.52, 'current': 22.18, 'rpm': 2001} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:44:08 2026 | {'temperature': 84.54, 'pressure': 2.16, 'vibration': 6.84, 'current': 12.95, 'rpm': 1837} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:08 2026 | {'temperature': 92.79, 'pressure': 5.56, 'vibration': 4.21, 'current': 13.03, 'rpm': 1966} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:08 2026 | {'temperature': 85.09, 'pressure': 4.41, 'vibration': 9.68, 'current': 14.16, 'rpm': 1905} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:09 2026 | {'temperature': 91.37, 'pressure': 4.65, 'vibration': 7.71, 'current': 17.58, 'rpm': 1462} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:09 2026 | {'temperature': 59.89, 'pressure': 2.44, 'vibration': 6.63, 'current': 23.2, 'rpm': 1963} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:44:09 2026 | {'temperature': 57.92, 'pressure': 3.56, 'vibration': 3.17, 'current': 14.68, 'rpm': 1619} | NORMAL | CONTINUE_NORMAL
+Sun Oct 11 16:44:09 2026 | {'temperature': 55.43, 'pressure': 2.25, 'vibration': 1.18, 'current': 17.08, 'rpm': 1440} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:44:09 2026 | {'temperature': 63.97, 'pressure': 4.63, 'vibration': 3.87, 'current': 16.71, 'rpm': 1808} | NORMAL | CONTINUE_NORMAL
+Sun Oct 11 16:44:10 2026 | {'temperature': 78.32, 'pressure': 2.19, 'vibration': 1.51, 'current': 14.15, 'rpm': 1970} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:10 2026 | {'temperature': 93.43, 'pressure': 1.93, 'vibration': 8.12, 'current': 10.61, 'rpm': 1891} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:10 2026 | {'temperature': 56.99, 'pressure': 2.92, 'vibration': 5.48, 'current': 15.88, 'rpm': 1526} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:44:10 2026 | {'temperature': 66.33, 'pressure': 2.95, 'vibration': 2.91, 'current': 13.57, 'rpm': 1854} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:44:10 2026 | {'temperature': 84.18, 'pressure': 1.94, 'vibration': 4.54, 'current': 12.41, 'rpm': 1633} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:11 2026 | {'temperature': 80.9, 'pressure': 5.04, 'vibration': 3.94, 'current': 20.02, 'rpm': 2114} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:11 2026 | {'temperature': 92.18, 'pressure': 5.53, 'vibration': 4.06, 'current': 12.2, 'rpm': 1481} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:11 2026 | {'temperature': 87.71, 'pressure': 2.94, 'vibration': 8.36, 'current': 28.05, 'rpm': 2113} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:11 2026 | {'temperature': 67.06, 'pressure': 6.31, 'vibration': 6.1, 'current': 23.13, 'rpm': 2110} | HIGH_VIBRATION | CHECK_MACHINE
+Sun Oct 11 16:44:11 2026 | {'temperature': 58.47, 'pressure': 1.57, 'vibration': 2.86, 'current': 16.74, 'rpm': 1825} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:44:12 2026 | {'temperature': 88.44, 'pressure': 5.15, 'vibration': 6.09, 'current': 18.6, 'rpm': 1414} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:12 2026 | {'temperature': 86.32, 'pressure': 5.59, 'vibration': 2.36, 'current': 15.69, 'rpm': 1561} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:12 2026 | {'temperature': 90.34, 'pressure': 1.77, 'vibration': 8.92, 'current': 8.97, 'rpm': 1794} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:12 2026 | {'temperature': 66.92, 'pressure': 1.46, 'vibration': 4.66, 'current': 14.15, 'rpm': 2017} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:44:12 2026 | {'temperature': 79.31, 'pressure': 3.07, 'vibration': 6.89, 'current': 12.52, 'rpm': 2137} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:13 2026 | {'temperature': 79.62, 'pressure': 3.91, 'vibration': 6.23, 'current': 25.53, 'rpm': 1705} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:13 2026 | {'temperature': 93.01, 'pressure': 4.69, 'vibration': 1.09, 'current': 24.74, 'rpm': 1808} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:13 2026 | {'temperature': 77.29, 'pressure': 3.45, 'vibration': 1.71, 'current': 23.62, 'rpm': 2097} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:13 2026 | {'temperature': 81.95, 'pressure': 2.6, 'vibration': 5.72, 'current': 20.27, 'rpm': 1604} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:13 2026 | {'temperature': 95.94, 'pressure': 2.54, 'vibration': 2.48, 'current': 27.39, 'rpm': 1697} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:14 2026 | {'temperature': 57.2, 'pressure': 4.82, 'vibration': 9.17, 'current': 26.02, 'rpm': 1722} | HIGH_VIBRATION | CHECK_MACHINE
+Sun Oct 11 16:44:14 2026 | {'temperature': 75.56, 'pressure': 4.41, 'vibration': 6.55, 'current': 13.61, 'rpm': 2133} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:14 2026 | {'temperature': 91.87, 'pressure': 2.18, 'vibration': 8.08, 'current': 20.14, 'rpm': 1971} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:14 2026 | {'temperature': 72.52, 'pressure': 1.44, 'vibration': 8.46, 'current': 26.13, 'rpm': 2060} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:44:14 2026 | {'temperature': 60.73, 'pressure': 3.81, 'vibration': 4.68, 'current': 21.02, 'rpm': 1668} | MOTOR_OVERLOAD | REDUCE_LOAD
+Sun Oct 11 16:44:15 2026 | {'temperature': 83.02, 'pressure': 1.37, 'vibration': 2.73, 'current': 8.98, 'rpm': 1513} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:15 2026 | {'temperature': 79.63, 'pressure': 2.26, 'vibration': 5.43, 'current': 21.11, 'rpm': 2104} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:15 2026 | {'temperature': 64.9, 'pressure': 4.33, 'vibration': 9.59, 'current': 16.27, 'rpm': 1983} | HIGH_VIBRATION | CHECK_MACHINE
+Sun Oct 11 16:44:15 2026 | {'temperature': 75.8, 'pressure': 3.44, 'vibration': 1.1, 'current': 13.27, 'rpm': 1959} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:16 2026 | {'temperature': 60.46, 'pressure': 3.02, 'vibration': 6.81, 'current': 9.14, 'rpm': 2135} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:44:16 2026 | {'temperature': 72.77, 'pressure': 3.81, 'vibration': 1.28, 'current': 10.65, 'rpm': 1520} | NORMAL | CONTINUE_NORMAL
+Sun Oct 11 16:44:16 2026 | {'temperature': 65.9, 'pressure': 1.65, 'vibration': 8.03, 'current': 25.27, 'rpm': 1805} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:44:16 2026 | {'temperature': 55.15, 'pressure': 6.03, 'vibration': 7.8, 'current': 23.04, 'rpm': 1570} | HIGH_VIBRATION | CHECK_MACHINE
+Sun Oct 11 16:44:16 2026 | {'temperature': 84.4, 'pressure': 4.2, 'vibration': 6.52, 'current': 19.08, 'rpm': 1846} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:17 2026 | {'temperature': 64.07, 'pressure': 3.83, 'vibration': 1.7, 'current': 16.78, 'rpm': 1422} | NORMAL | CONTINUE_NORMAL
+Sun Oct 11 16:44:17 2026 | {'temperature': 75.91, 'pressure': 4.75, 'vibration': 1.39, 'current': 13.79, 'rpm': 2178} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:17 2026 | {'temperature': 80.22, 'pressure': 5.77, 'vibration': 6.6, 'current': 27.52, 'rpm': 1419} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:17 2026 | {'temperature': 78.76, 'pressure': 1.11, 'vibration': 8.54, 'current': 20.3, 'rpm': 1668} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:17 2026 | {'temperature': 86.55, 'pressure': 1.22, 'vibration': 4.04, 'current': 11.58, 'rpm': 1769} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:18 2026 | {'temperature': 79.23, 'pressure': 5.92, 'vibration': 9.51, 'current': 12.78, 'rpm': 1517} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:18 2026 | {'temperature': 79.24, 'pressure': 4.96, 'vibration': 9.31, 'current': 28.85, 'rpm': 1477} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:18 2026 | {'temperature': 84.46, 'pressure': 4.95, 'vibration': 5.54, 'current': 23.38, 'rpm': 1901} | OVERHEATING | STOP_MACHINE
+Sun Oct 11 16:44:18 2026 | {'temperature': 68.61, 'pressure': 3.77, 'vibration': 8.91, 'current': 23.21, 'rpm': 1614} | HIGH_VIBRATION | CHECK_MACHINE
+Sun Oct 11 16:44:18 2026 | {'temperature': 72.06, 'pressure': 1.23, 'vibration': 5.62, 'current': 13.61, 'rpm': 2015} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:44:19 2026 | {'temperature': 69.52, 'pressure': 2.61, 'vibration': 1.64, 'current': 16.13, 'rpm': 1717} | LOW_PRESSURE | CHECK_PRESSURE
+Sun Oct 11 16:44:19 2026 | {'temperature': 78.54, 'pressure': 5.96, 'vibration': 6.79, 'current': 14.26, 'rpm': 2034} | OVERHEATING | STOP_MACHINE
